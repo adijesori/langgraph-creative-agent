@@ -1,6 +1,7 @@
-This is a simple creative agent can be used as a remote graph.
-For reference use this repo: 
+This is a simple creative agent that can be used as a remote graph.
+For reference on how use this remote graph, see [this](https://github.com/adijesori/langgraph-remote-graphs).
 
+In order to run it:
 1. Clone the repository
 2. Run `npm i`
 3. Add `.env` file in the root directory with the following content:
